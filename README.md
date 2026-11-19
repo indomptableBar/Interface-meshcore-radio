@@ -1,6 +1,21 @@
-# 📡 MeshCore Local
+# 📶 MeshCore Local
 
-**Un client web pour radios [MeshCore](https://meshcore.co.uk), tenu dans un seul fichier HTML, qui fonctionne en local dans votre navigateur.**
+Pourquoi j'ai créé cette application : 
+J'ai trouvé qu'il manquait dans l'écosystème une solution pour permettre de pouvoir dialoguer facilement 
+sans se prendre la tete juste avec un fichier et une antenne meshcore. et voila le tour est joué. 
+Vous pouvez communiquer entre amis/famille/collègue/personne qu'on connait pas.
+
+Bref bienvenue sur la toile numérique sans être connecté forcement a internet.
+
+
+Je suis en cours de dev :
+
+Chaque semaine j'actualise mais si j'ai des bugs n’hésitez pas a me le dire.
+
+
+
+
+**Un client web pour radios [MeshCore](https://meshcore.fr), tenu dans un seul fichier HTML, qui fonctionne en local dans votre navigateur.**
 
 Branchez votre radio MeshCore en **USB** ou en **Bluetooth**, puis échangez des messages, consultez vos contacts, voyez le maillage sur une carte ou en 3D, surveillez vos répéteurs et analysez votre antenne. Il n'y a rien à installer et aucun compte à créer. Vos messages restent sur votre ordinateur.
 
