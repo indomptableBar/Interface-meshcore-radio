@@ -5,16 +5,13 @@
 
 
 Pourquoi j'ai créé cette application : 
-J'ai trouvé qu'il manquait dans l'écosystème une solution pour permettre de pouvoir dialoguer facilement 
-sans se prendre la tete juste avec un fichier et une antenne meshcore. et voila le tour est joué. 
-Vous pouvez communiquer entre amis/famille/collègue/personne qu'on connait pas.
+L'écosystème manquait d'une solution simple : discuter sans se prendre la tête, avec juste un fichier et une antenne MeshCore. Résultat : communiquez avec vos amis, votre famille, vos collègues ou même des inconnus. 
 
-Bref bienvenue sur la toile numérique sans être connecté forcement a internet.
+Bref Bienvenue sur la toile numérique sans être connecté forcement à internet être libre et résilient cela commence ici.
 
 
-Je suis en cours de dev :
-
-Chaque semaine j'actualise mais si j'ai des bugs n’hésitez pas a me le dire.
+Je suis en cours de développement  du programme :
+Chaque semaine j'actualise mais si j'ai des bugs n’hésitez pas a me le dire je serai ravi d'essayer de remettre au gout du jour.
 
 
 
