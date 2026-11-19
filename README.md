@@ -47,15 +47,6 @@ MeshCore est un réseau maillé LoRa : les messages passent de radio en radio, s
 4. Cliquez sur **🔌 USB** ou **📶 Bluetooth** en haut, puis choisissez votre radio.
 
 L'application lit alors votre identité, vos contacts, vos canaux et les messages en attente.
-
-### Navigateurs compatibles
-
-| Navigateur | USB (Web Serial) | Bluetooth (Web Bluetooth) |
-|---|---|---|
-| Chrome / Edge / Opera (ordinateur) | ✅ | ✅ |
-| Chrome Android | ❌ | ✅ |
-| Firefox, Safari | ❌ | ❌ |
-
 ---
 
 ## 🧭 Les onglets
