@@ -42,7 +42,7 @@ MeshCore est un réseau maillé LoRa : les messages passent de radio en radio, s
    - `companion_radio_usb` pour une connexion par câble USB ;
    - `companion_radio_ble` pour une connexion Bluetooth.
 
-   Vous pouvez flasher depuis [flasher.meshcore.co.uk](https://flasher.meshcore.co.uk). Les firmwares *Repeater* et *Room server* ne se connectent pas à l'application.
+   Vous pouvez flasher depuis [[flasher.meshcore.io](https://flasher.meshcore.io/)](https://flasher.meshcore.io). Les firmwares *Repeater* et *Room server* ne se connectent pas à l'application.
 2. **Téléchargez** le fichier `meshcore-local-v9.html`.
 3. **Ouvrez-le** dans **Chrome**, **Edge** ou **Opera** (double-clic sur le fichier, ou via `http://localhost`).
 4. Cliquez sur **🔌 USB** ou **📶 Bluetooth** en haut, puis choisissez votre radio.
