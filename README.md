@@ -19,7 +19,7 @@ Chaque semaine j'actualise mais si j'ai des bugs n’hésitez pas a me le dire.
 
 Branchez votre radio MeshCore en **USB** ou en **Bluetooth**, puis échangez des messages, consultez vos contacts, voyez le maillage sur une carte ou en 3D, surveillez vos répéteurs et analysez votre antenne. Il n'y a rien à installer et aucun compte à créer. Vos messages restent sur votre ordinateur.
 
-> Application non officielle, développée par la communauté. Elle n'est pas affiliée à l'équipe MeshCore.
+> Application non officielle, développée par IndomptableBar pour la communauté Meshcore. Elle n'est pas affiliée à l'équipe MeshCore.
 
 ---
 
