@@ -16,8 +16,8 @@ Chaque semaine j'actualise mais si j'ai des bugs n’hésitez pas a me le dire j
 
 
 
-**Télécharger le fichier nommé meshcore-local-v9.html 
-c'est Un client web pour radios [MeshCore](https://meshcore.fr), tenu dans un seul fichier HTML, qui fonctionne en local dans votre navigateur.**
+**Télécharger le fichier nommé [meshcore-local-v9.html](https://github.com/indomptableBar/Interface-meshcore-radio/blob/main/meshcore-local-v9.html) 
+c'est un client web pour radios [MeshCore](https://meshcore.fr), tenu dans un seul fichier HTML, qui fonctionne en local dans votre navigateur.**
 
 Branchez votre radio MeshCore en **USB** ou en **Bluetooth**, puis échangez des messages, consultez vos contacts, voyez le maillage sur une carte ou en 3D, surveillez vos répéteurs et analysez votre antenne. Il n'y a rien à installer et aucun compte à créer. Vos messages restent sur votre ordinateur.
 
