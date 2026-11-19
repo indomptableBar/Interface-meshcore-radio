@@ -167,7 +167,11 @@ Les contributions sont bienvenues : ouvrez une *issue* pour signaler un bug, ou 
 
 ## 📜 Avertissement
 
-Respectez la réglementation radio de votre pays : puissance maximale (PAR / PIRE) et temps d'émission dans chaque bande. Les calculs de l'application sont donnés **à titre indicatif** et ne remplacent pas une mesure.
+Respectez la réglementation radio de votre pays : puissance maximale (PAR / PIRE) et temps d'émission dans chaque bande. 
+Les calculs de l'application sont donnés **à titre indicatif** et ne remplacent pas une mesure.
 
 
 <img src="logo.png" align="center"/>
+
+N'hesitez pas a me mettre un petit like par une étoile 🌠 au haut a droite du projet pour témoigner votre soutien cela me ferai plaisir si vous avez un compte github si non.
+On s'en fiche on se rencontrera surement sur les ondes :)
