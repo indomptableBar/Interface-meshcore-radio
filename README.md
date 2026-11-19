@@ -2,9 +2,8 @@
 
   
 
-Un client web pour radios MeshCore, tenu dans un seul fichier HTML, qui fonctionne en local dans votre navigateur.
-
-  
+Un client web pour radios MeshCore, tenu dans un seul fichier HTML, 
+qui fonctionne en local dans votre navigateur sans avoir plein de programmes.  
 
 Branchez votre radio MeshCore en USB ou en Bluetooth, 
 
