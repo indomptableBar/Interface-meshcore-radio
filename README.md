@@ -44,7 +44,7 @@ MeshCore est un réseau maillé LoRa : les messages passent de radio en radio, s
 
    Vous pouvez flasher depuis [[flasher.meshcore.io](https://flasher.meshcore.io/)](https://flasher.meshcore.io). Les firmwares *Repeater* et *Room server* ne se connectent pas à l'application.
 2. **Téléchargez** le fichier `meshcore-local-v9.html`.
-3. **Ouvrez-le** dans **Chrome**, **Edge** ou **Opera** (double-clic sur le fichier, ou via `http://localhost`).
+3. **Ouvrez-le** dans **Chrome**, **Edge** ,**Opera**, **Brave** (double-clic sur le fichier, ou via `http://localhost`).
 4. Cliquez sur **🔌 USB** ou **📶 Bluetooth** en haut, puis choisissez votre radio.
 
 L'application lit alors votre identité, vos contacts, vos canaux et les messages en attente.
@@ -146,7 +146,7 @@ Sans Internet, la messagerie, les contacts, les canaux, l'onglet Antenne et la s
 
 | Problème | Solution |
 |---|---|
-| Les boutons USB / Bluetooth sont grisés | Utilisez Chrome, Edge ou Opera. Firefox et Safari ne prennent pas en charge Web Serial ni Web Bluetooth. |
+| Les boutons USB / Bluetooth sont grisés | Utilisez Chrome, Edge, Opera, Brave. Firefox et Safari a tester Web Serial ni Web Bluetooth. |
 | La radio n'apparaît pas | Vérifiez qu'elle a un firmware **Companion** (USB ou BLE selon la connexion) et fermez les autres applications connectées à la radio. |
 | « Contexte non sécurisé » dans le Journal | Ouvrez le fichier directement (`file://`) ou via `http://localhost`, pas via une adresse réseau en `http://`. |
 | Les statistiques d'antenne sont vides | Votre firmware ne fournit pas `CMD_GET_STATS` : mettez-le à jour. Les mesures de session fonctionnent quand même. |
