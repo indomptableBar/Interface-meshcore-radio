@@ -175,3 +175,6 @@ Les contributions sont bienvenues : ouvrez une *issue* pour signaler un bug, ou 
 ## 📜 Avertissement
 
 Respectez la réglementation radio de votre pays : puissance maximale (PAR / PIRE) et temps d'émission dans chaque bande. Les calculs de l'application sont donnés **à titre indicatif** et ne remplacent pas une mesure.
+
+
+<img src="logo.png" align="center"/>
