@@ -1,5 +1,9 @@
 # 📶 MeshCore Local
 
+<img src="logo-mesh.png" align="center"/>
+
+
+
 Pourquoi j'ai créé cette application : 
 J'ai trouvé qu'il manquait dans l'écosystème une solution pour permettre de pouvoir dialoguer facilement 
 sans se prendre la tete juste avec un fichier et une antenne meshcore. et voila le tour est joué. 
