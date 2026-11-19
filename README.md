@@ -1,4 +1,4 @@
-# 📶 MeshCore Local
+# 📶 MeshCore Local Interface pour PC Linux ou Windows ou Mac
 
 <img src="logo-mesh.png" align="center"/>
 
@@ -16,7 +16,8 @@ Chaque semaine j'actualise mais si j'ai des bugs n’hésitez pas a me le dire j
 
 
 
-**Un client web pour radios [MeshCore](https://meshcore.fr), tenu dans un seul fichier HTML, qui fonctionne en local dans votre navigateur.**
+**Télécharger le fichier nommé meshcore-local-v9.html 
+c'est Un client web pour radios [MeshCore](https://meshcore.fr), tenu dans un seul fichier HTML, qui fonctionne en local dans votre navigateur.**
 
 Branchez votre radio MeshCore en **USB** ou en **Bluetooth**, puis échangez des messages, consultez vos contacts, voyez le maillage sur une carte ou en 3D, surveillez vos répéteurs et analysez votre antenne. Il n'y a rien à installer et aucun compte à créer. Vos messages restent sur votre ordinateur.
 
